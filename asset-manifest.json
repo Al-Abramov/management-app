@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.604e35d4.css",
+    "main.js": "/static/js/main.481f6ff5.js",
+    "static/media/avatar.png": "/static/media/avatar.e5117e8e0cea57c9a92f.png",
+    "static/media/rs-logo.svg": "/static/media/rs-logo.bb890e42574e702670b01f8e4ef747b6.svg",
+    "index.html": "/index.html",
+    "static/media/trello-mark.svg": "/static/media/trello-mark.6ec66aff5f42477cff2bd1a4f2b8aeab.svg",
+    "main.604e35d4.css.map": "/static/css/main.604e35d4.css.map",
+    "main.481f6ff5.js.map": "/static/js/main.481f6ff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.604e35d4.css",
+    "static/js/main.481f6ff5.js"
+  ]
+}
